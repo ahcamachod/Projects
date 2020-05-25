@@ -2,6 +2,6 @@
 
 This is my portfolio.
 
-Here you will find all my featured projects as a data analyst. I hope you enjoy it! 
+Here you will find all my featured projects as a data analyst. I hope you enjoy them! 
 
-Feedback is very welcome!
+Please feel free to give me Feedback. I'd really appreciate it!
